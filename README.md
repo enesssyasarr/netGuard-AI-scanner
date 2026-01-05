@@ -1,8 +1,9 @@
 # NetGuard-AI 🛡️
 
 ![Python Version]( https://img.shields.io/badge/python-3.12%2B-blue)
-![License](img.shields.io)
-![Status](img.shields.io)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 **NetGuard-AI** is a tool for real-time network traffic monitoring using heuristic analysis and a modular architecture for connecting ML models. It was developed as a demonstration of skills in Network Security and information security automation.
 
