@@ -2,8 +2,14 @@
 
 ![Python Version]( https://img.shields.io/badge/python-3.12%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
+![CI Example](https://github.com/mscbuild/netGuard-AI-scanner/actions/workflows/main.yml/badge.svg) 
 ![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)
+ ![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/badge/PRs-Welcome-green)
+  ![](https://img.shields.io/github/languages/code-size/mscbuild/netGuard-AI-scanner)
+![](https://img.shields.io/badge/code%20style-python-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
 
 **NetGuard-AI** is a tool for real-time network traffic monitoring using heuristic analysis and a modular architecture for connecting ML models. It was developed as a demonstration of skills in Network Security and information security automation.
 
