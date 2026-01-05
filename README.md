@@ -1,8 +1,7 @@
 # NetGuard-AI 🛡️
-
+[![Security Scan](https://github.com/mscbuild/netGuard-AI-scanner/actions/workflows/security.yml/badge.svg) 
 ![Python Version]( https://img.shields.io/badge/python-3.12%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![CI Example](https://github.com/mscbuild/netGuard-AI-scanner/actions/workflows/main.yml/badge.svg) 
 ![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)
  ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
