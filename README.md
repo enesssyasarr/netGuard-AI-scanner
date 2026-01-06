@@ -42,8 +42,8 @@ netguard-ai/
 
 1. Clone the repository:
    ```bash
-   git clone github.com
-   cd netguard-ai
+   git clone github.com/mscbuild/netGuard-AI-scanner
+   cd netGuard-AI-scanner
 
 **Install dependencies:**
 ~~~bash
