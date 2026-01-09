@@ -1,5 +1,8 @@
 # Security Policy
 
+<img width="466" height="382" alt="image" src="https://github.com/user-attachments/assets/74eb4456-af62-4d0f-b560-0c6cb3201d8f" />
+
+
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
